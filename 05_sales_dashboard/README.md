@@ -39,7 +39,14 @@ Looker Studio 대시보드
 - 휴면 거래처 기준: 최근 3개월 내 주문 없는 거래처
 
 ## 스크린샷
-[대시보드 이미지]
+<img width="1052" height="787" alt="image" src="https://github.com/user-attachments/assets/6a8a317a-b3aa-4c70-856a-546f36d16d6e" />
+<img width="1052" height="787" alt="image" src="https://github.com/user-attachments/assets/385cd2d4-0cf1-4064-85ba-4b22b9cc8518" />
+<img width="1052" height="787" alt="image" src="https://github.com/user-attachments/assets/80e229e7-4276-4a0f-8005-6ef7f1a23ea9" />
+
+
+
+
+
 
 ## 한계 및 개선 방향
 - 현재 MySQL → Google Sheets 구간이 수동 실행
