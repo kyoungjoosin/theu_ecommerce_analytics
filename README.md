@@ -13,6 +13,8 @@
 | 2 | [개인화 품목 조회를 활용한 주문 경험 개선](./02_personalized_order_experience/) | 기존 고객 주문 소요시간 6.8% 단축 | Python, Pandas, MySQL |
 | 3 | [도매 주문 UI 개선 가설 검증](./03_wholesale_ui_improvement/) | 주문당 평균 16.9개 품목 대량 구매 패턴 확인 | Python, Pandas, MySQL |
 | 4 | [자사몰 쿼리 최적화](./04_query_optimization/) | 페이지 로딩 속도 90% 단축 (3~4초 → 0.3초) | MySQL |
+| 5 | [자사몰 영업 현황 대시보드 구축](05_sales_dashboard) | 현업 인터뷰 기반 Looker Studio 대시보드 단독 구축 → 수동 집계 업무 대체 | MySQL, Looker Studio, Google Sheets |
+| 6 | [사용자 행동 이벤트 로깅 시스템 구축](06_event_logging_system) | 이벤트 Taxonomy 설계 + 11개 이벤트 수집·집계 자동화 | Python, MySQL, PHP |
 
 ---
 
